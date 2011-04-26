@@ -1,1 +1,3 @@
-Test
+Python scripts to download and bild map image from yandex maps.
+
+Requires ImageMagick.
